@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+   
+}
+.frame{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    height: 350px;
+    background-color: bisque;
+    margin: 250px auto;
+    padding: 10px 20px 30px;
+    border-radius: 50px;
+}
+
+.top h1{
+   font-style: bold;
+   text-align: center; 
+}
+.user h3{
+    font-style: bold;
+    text-align: center;
+}
+.user h3 input{
+    border-radius: 5px;
+}
+.mail{
+    font-style: bold;
+    text-align: center;
+}
+.mail h3 input{
+    border-radius: 5px;
+}
+
+.phone{
+    font-style: bold;
+    text-align: center;
+}
+.phone h3 input{
+    border-radius: 5px;
+}
+.final{
+    font-style: bold;
+    text-align: center;
+}
+.final button{
+    border-radius: 5px;
+}
+
